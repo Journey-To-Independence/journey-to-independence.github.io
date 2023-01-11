@@ -3226,8 +3226,8 @@ ul.default {
 	}
 
  .menu {
-		position: sticky;
- background: rgb(15, 13, 13);
+		position: fixed;
+ background: rgb:(15, 13, 13);
 		width: 100%;
 		margin-top: 0px;
 		top: 0px;
