@@ -3225,9 +3225,9 @@ ul.default {
 
 	}
 
-[17:32, 11/01/2023] Alokik xD: .menu {
-		position: fixed;
-[17:32, 11/01/2023] Alokik xD: background: rgb(15, 13, 13);
+ .menu {
+		position: sticky;
+ background: rgb(15, 13, 13);
 		width: 100%;
 		margin-top: 0px;
 		top: 0px;
